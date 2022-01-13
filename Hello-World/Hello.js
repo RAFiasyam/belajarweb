@@ -1,0 +1,1 @@
+console.log("langit turun beri kabar")
